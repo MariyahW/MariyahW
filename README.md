@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 ### 🌱 Current Focus
 <!---
 - 🔍 Exploring [specific technology or domain you are currently interested in]. --->
-- 📚 Learning more about [Python, C, flask, and the Harvard Python Programming Certification].
+- 📚 Learning more about [Python, C, flask, relearning Java, and taking the Harvard Python Programming Certification].
 <!---
 ### 🛠️ Projects
 
