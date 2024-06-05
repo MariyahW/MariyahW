@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🚀 Full-stack Engineer passionate about creating robust and scalable software.
 - 💡 Constantly exploring new technologies and tools to stay ahead in the ever-evolving tech landscape.
+- 🎓 Marketing,Business Management, and Software Engineering graduate with a solid foundation in algorithms, data structures, and software design patterns.
   
 
 ### 💼 Technical Skills
@@ -22,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 ### 🌱 Current Focus
 <!---
 - 🔍 Exploring [specific technology or domain you are currently interested in]. --->
-- 📚 Learning more about [Python, C, flask, relearning Java, and taking the Harvard Python Programming Certification].
+- 📚 Learning more about [Python, C, flask, relearning Java, and earning a BS in SWE.
 <!---
 ### 🛠️ Projects
 
