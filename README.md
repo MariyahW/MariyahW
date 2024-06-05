@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 <!---
 ### 🛠️ Projects
 
-- [Project Name](Link): Brief description and key features.
+
 - [Project Name](Link): Brief description and key features.
 --->
 ### 🌐 Connect with Me
